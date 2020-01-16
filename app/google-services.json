@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "669004137948",
+    "firebase_url": "https://chatapp-b2653.firebaseio.com",
+    "project_id": "chatapp-b2653",
+    "storage_bucket": "chatapp-b2653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669004137948:android:c4546f65a4c96afa617b19",
+        "android_client_info": {
+          "package_name": "com.shubhada.chatapplicationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669004137948-87hanthksr2cnhbe6c90lk11pq22ggaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrMQPWwVTLhWWpsji94VkaXwNU5NTsi10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669004137948-87hanthksr2cnhbe6c90lk11pq22ggaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
