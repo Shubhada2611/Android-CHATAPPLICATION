@@ -1,5 +1,9 @@
 # Android-CHAT APPLICATION
-Chat Application like Whatsapp using Firebase, Java and Android Studio.
+
+Developed a Chat Application like Whatsapp using Firebase, Java and Android Studio.
+
+You can easily download and run the project in your android studio.This app is really fun you will enjoy chatting with your friends with the app that you have developed by your own.Below are the steps to run the project.
+Go for it!!!
 
 Steps to run:
 
@@ -16,3 +20,5 @@ Steps to run:
 -Refactor code to reflect the package name you have given earlier.
 
 -Build and run the project in Android Studio.
+
+-You are all set now!
